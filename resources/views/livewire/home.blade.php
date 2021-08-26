@@ -1,3 +1,3 @@
 <div>
-@livewire('home-header');
+<livewire:home-header />
 </div>
